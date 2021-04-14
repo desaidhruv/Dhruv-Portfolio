@@ -57,7 +57,7 @@ const Home = () => {
               About Me
             </NavLink>
             <span className="item">—</span>
-            <span className="item">My Projects</span>
+            <span className="item"><a href="#projects">My Projects</a></span>
           </div>
 
           <div className="scroll-down">
@@ -77,7 +77,7 @@ const Home = () => {
 
         <section className="landing__work">
           <AnimateEl>
-            <div className="title">
+            <div className="title" id="projects">
               My <br /> Projects -
             </div>
           </AnimateEl>
