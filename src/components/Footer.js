@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="link">
             <p>
               <a
-                data-text="wa.me/oluwaseyi"
+                data-text="wa.me/desaidhruv"
                 href="https://wa.me/+919819975174"
                 target="_blank"
                 rel="noopener noreferrer"
