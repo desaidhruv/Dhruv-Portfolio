@@ -33,7 +33,7 @@ const Home = () => {
 
       <div className="landing">
         <section className="landing__top">
-          <div className="sub">Front-End Developer</div>
+          <div className="sub">Full-Stack Developer</div>
           <h1 className="landing__main">
             <span className="text-con">
               {text1.split("").map((t, i) => (
@@ -89,12 +89,12 @@ const Home = () => {
                 className="box box-1"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/desaidhruv/TPO"
+                href="https://aceplacement.pythonanywhere.com/"
               >
                 <div className="box-content">
-                  <div className="box-anim p-title">Training & Placement Cell</div>
+                  <div className="box-anim p-title">AcePlacement</div>
                   <div className="box-anim p-sub">
-                    A website for the Training & Placements coalition (#TPO)
+                    A website for the Training & Placements coalition
                   </div>
                   <div className="box-anim link">View Project &#8594;</div>
                 </div>
@@ -181,7 +181,7 @@ const Home = () => {
               🔎
             </span>
           </div>
-          <div className="topic">PS: I also write, sometimes.</div>
+          {/* <div className="topic">PS: I also write, sometimes.</div> */}
 
           <div className="social-boxes">
             <a
