@@ -64,7 +64,7 @@ const About = () => {
               </p>
             </div>
             <a
-              href="https://drive.google.com/uc?export=download&id=1BIJ6Fbvq2rwjcGqILr793vqIUvwzgrf4"
+              href="https://drive.google.com/uc?export=download&id=1Sk6vU_GFFseYKqtPQI6fxhVge1iDpu6k"
               download
             >
               <i className="fas fa-file-alt"></i> Download Resume
