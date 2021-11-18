@@ -104,7 +104,7 @@ const Home = () => {
             </AnimateEl>
             <AnimateEl>
               <a
-                href="https://kalamlabs.in"
+                href="https://grandsangeet.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="box box-2"
@@ -112,9 +112,9 @@ const Home = () => {
                 onMouseLeave={boxExit}
               >
                 <div className="box-content">
-                  <div className="box-anim p-title">Kalam Labs</div>
+                  <div className="box-anim p-title">Grand Sangeet</div>
                   <div className="box-anim p-sub">
-                    Interactive UI for students to enroll in AR classes.
+                    India's favourite wedding choreogaphy brand.
                   </div>
                   <div className="box-anim link">View Project &#8594;</div>
                 </div>
@@ -154,7 +154,7 @@ const Home = () => {
                 <div className="box-content">
                   <div className="box-anim p-title">Kalam Labs France</div>
                   <div className="box-anim p-sub">
-                    French Version 
+                    Interactive UI for students to enroll in AR classes.
                   </div>
                   <div className="box-anim link">View Project &#8594;</div>
                 </div>
