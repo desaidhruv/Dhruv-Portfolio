@@ -104,7 +104,7 @@ const Home = () => {
             </AnimateEl>
             <AnimateEl>
               <a
-                href="https://grandsangeet.com"
+                href="https://grand-sangeet.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="box box-2"
