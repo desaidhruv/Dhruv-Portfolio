@@ -144,7 +144,7 @@ const Home = () => {
             </AnimateEl>
             <AnimateEl>
               <a
-                href="https://kalamlabs.fr"
+                href="https://www.kalamlabs.in"
                 target="_blank"
                 rel="noopener noreferrer"
                 onMouseEnter={boxHover}
