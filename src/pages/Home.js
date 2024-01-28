@@ -89,7 +89,7 @@ const Home = () => {
                 className="box box-1"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://aceplacement.pythonanywhere.com/"
+                href="https://github.com/desaidhruv/aceplacement"
               >
                 <div className="box-content">
                   <div className="box-anim p-title">AcePlacement</div>
